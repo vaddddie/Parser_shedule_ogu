@@ -26,7 +26,7 @@
     ```
 2. Перейдите в директорию проекта:
     ```bash
-    cd log_handler
+    cd Parser_shedule_ogu
     ```
 3. Установите зависимости:
     ```bash
